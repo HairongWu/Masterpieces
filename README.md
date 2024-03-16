@@ -1,5 +1,7 @@
 # Masterpieces
 
+The manuscripts are edited by Latex. If you are interested in this project, you can request for new books or co-edit with me.
+
 ## Japanese
 
 - 夏目漱石全集(In progress)
