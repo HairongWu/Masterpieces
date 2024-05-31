@@ -12,8 +12,8 @@ The manuscripts are edited by Latex. If you are interested in this project, you 
 ## French
 
 - Le comte de Monte-Cristo (In progress)
-- Les trois mousquetaires
-- Les Misérables
+- Les trois mousquetaires (In progress)
+- Les Misérables (In progress)
 
 - COURS D’ANALYSE DE L’ÉCOLE ROYALE POLYTECHNIQUE
 
@@ -41,5 +41,4 @@ The manuscripts are edited by Latex. If you are interested in this project, you 
 
 - A HISTORY OF WESTERN PHILOSOPHY
 
-- Graduate Texts in Mathematics
 
