@@ -8,12 +8,13 @@ The manuscripts are edited by Latex. If you are interested in this project, you 
 - 芥川龍之介全集
 - 太宰治全集
 - 樋口一葉全集
+- 時系列と大規模モデル
 
 ## French
 
 - Le comte de Monte-Cristo (In progress)
-- Les trois mousquetaires (In progress)
-- Les Misérables (In progress)
+- Les trois mousquetaires
+- Les Misérables
 
 - COURS D’ANALYSE DE L’ÉCOLE ROYALE POLYTECHNIQUE
 
@@ -22,10 +23,12 @@ The manuscripts are edited by Latex. If you are interested in this project, you 
 - DIE BIBEL (In progress)
 - Faust
 - SEIN UND ZEIT
+- Das Kapital
 
 ## Spanish
 
 - Don Quijote
+- Spanish Dictionary
 
 ## Italian
 
@@ -39,6 +42,16 @@ The manuscripts are edited by Latex. If you are interested in this project, you 
 
 ## English
 
-- A HISTORY OF WESTERN PHILOSOPHY
+- Deep Learning for Industries
+- The Lord of the Rings
+- Graduate Texts in Mathematics
+
+## Indonesian
+
+- A Comprehensive Indonesian-English Dictionary
+
+## Russian
+
+- АНГЛО-РУССКИЙ СЛОВАРЬ
 
 
