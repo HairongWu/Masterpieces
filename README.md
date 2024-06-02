@@ -8,7 +8,6 @@ The manuscripts are edited by Latex. If you are interested in this project, you 
 - 芥川龍之介全集
 - 太宰治全集
 - 樋口一葉全集
-- 時系列と大規模モデル
 
 ## French
 
@@ -36,9 +35,7 @@ The manuscripts are edited by Latex. If you are interested in this project, you 
 
 ## Chinese
 
-- 二十五史
-- 四书
-- 五经
+- 清史稿
 
 ## English
 
@@ -52,6 +49,16 @@ The manuscripts are edited by Latex. If you are interested in this project, you 
 
 ## Russian
 
-- АНГЛО-РУССКИЙ СЛОВАРЬ
+- РУССКО-АНГЛИЙСКИЙ СЛОВАРЬ
 
+## Korean
 
+-  KOREAN-ENGLISH DICTIONARY
+
+## Portuguese
+
+## Arabian
+
+## Latin
+
+## Greek
