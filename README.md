@@ -15,8 +15,6 @@ The manuscripts are edited by Latex. If you are interested in this project, you 
 - Les trois mousquetaires
 - Les Misérables
 
-- COURS D’ANALYSE DE L’ÉCOLE ROYALE POLYTECHNIQUE
-
 ## German
 
 - DIE BIBEL (In progress)
@@ -27,7 +25,7 @@ The manuscripts are edited by Latex. If you are interested in this project, you 
 ## Spanish
 
 - Don Quijote
-- Spanish Dictionary
+- Spanish Dictionary (In progress)
 
 ## Italian
 
@@ -39,21 +37,24 @@ The manuscripts are edited by Latex. If you are interested in this project, you 
 
 ## English
 
-- Deep Learning for Industries
-- The Lord of the Rings
+- Deep Learning for Industries (In progress)
+- The Lord of the Rings (In progress)
+- Complete Novels by Jane Austen
+- The Complete Works of William Shakespeare
+
 - Graduate Texts in Mathematics
 
 ## Indonesian
 
-- A Comprehensive Indonesian-English Dictionary
+- Indonesian-English Dictionary (In progress)
 
 ## Russian
 
-- РУССКО-АНГЛИЙСКИЙ СЛОВАРЬ
+- РУССКО-АНГЛИЙСКИЙ СЛОВАРЬ (In progress)
 
 ## Korean
 
--  KOREAN-ENGLISH DICTIONARY
+-  KOREAN-ENGLISH DICTIONARY (In progress)
 
 ## Portuguese
 
@@ -62,3 +63,7 @@ The manuscripts are edited by Latex. If you are interested in this project, you 
 ## Latin
 
 ## Greek
+
+## Thai
+
+## Music Score
