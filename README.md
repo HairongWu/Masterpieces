@@ -37,12 +37,14 @@ The manuscripts are edited by Latex. If you are interested in this project, you 
 
 ## English
 
-- Deep Learning for Industries (In progress)
-- The Lord of the Rings (In progress)
+- The Lord of the Rings
 - Complete Novels by Jane Austen
 - The Complete Works of William Shakespeare
 
+- A Concise Anglo−Saxon Dictionary
+
 - Graduate Texts in Mathematics
+- Selected Problems in Mathematics
 
 ## Indonesian
 
@@ -59,6 +61,9 @@ The manuscripts are edited by Latex. If you are interested in this project, you 
 ## Portuguese
 
 ## Indian
+
+
+## Vietnese
 
 ## Arabian
 
