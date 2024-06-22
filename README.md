@@ -2,9 +2,9 @@
 
 The manuscripts are edited by Latex. If you are interested in this project, you can request for new books or co-edit with me.
 
-## Japanese
+## Japanese Classical Masterpieces (with annotations and pictures)
 
-- 夏目漱石全集 (In progress)
+- 夏目漱石全集 (160 pages completed)
 - 芥川龍之介全集
 - 太宰治全集
 - 樋口一葉全集
