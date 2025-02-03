@@ -1,10 +1,8 @@
 # Masterpieces
 
-The manuscripts are edited by Latex. If you are interested in this project, you can request for new books or co-edit with me.
-
 ## Japanese Classical Masterpieces (with annotations and pictures)
 
-- 夏目漱石全集 (160 pages completed)
+- 夏目漱石全集 (In progress)
 - 芥川龍之介全集
 - 太宰治全集
 - 樋口一葉全集
@@ -17,7 +15,7 @@ The manuscripts are edited by Latex. If you are interested in this project, you 
 
 ## German
 
-- DIE BIBEL (In progress)
+- DIE BIBEL
 - Faust
 - SEIN UND ZEIT
 - Das Kapital
@@ -25,7 +23,6 @@ The manuscripts are edited by Latex. If you are interested in this project, you 
 ## Spanish
 
 - Don Quijote
-- Spanish Dictionary (In progress)
 
 ## Italian
 
@@ -41,22 +38,14 @@ The manuscripts are edited by Latex. If you are interested in this project, you 
 - Complete Novels by Jane Austen
 - The Complete Works of William Shakespeare
 
-- A Concise Anglo−Saxon Dictionary
-
 - Graduate Texts in Mathematics
 - Selected Problems in Mathematics
 
 ## Indonesian
 
-- Indonesian-English Dictionary (In progress)
-
 ## Russian
 
-- РУССКО-АНГЛИЙСКИЙ СЛОВАРЬ (In progress)
-
 ## Korean
-
--  KOREAN-ENGLISH DICTIONARY (In progress)
 
 ## Portuguese
 
