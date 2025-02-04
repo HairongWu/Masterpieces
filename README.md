@@ -39,7 +39,6 @@
 - The Complete Works of William Shakespeare
 
 - Graduate Texts in Mathematics
-- Selected Problems in Mathematics
 
 ## Indonesian
 
