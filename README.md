@@ -1,6 +1,6 @@
 # Masterpieces
 
-## Japanese Classical Masterpieces
+## Japanese
 
 - 夏目漱石全集 (In progress)
 - 芥川龍之介全集
