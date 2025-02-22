@@ -7,6 +7,8 @@
 - 太宰治全集
 - 樋口一葉全集
 
+- 産業向けの大規模モデル
+
 ## French
 
 - Le comte de Monte-Cristo (In progress)
