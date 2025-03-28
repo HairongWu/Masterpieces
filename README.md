@@ -12,8 +12,10 @@
 ## French
 
 - Le comte de Monte-Cristo (In progress)
-- Les trois mousquetaires
 - Les Misérables
+
+- The works of Cauchy
+- The works of HENRI POINCARÉ
 
 ## German
 
@@ -33,18 +35,27 @@
 ## Chinese
 
 - 清史稿
+- 资治通鉴
+- 苏轼集
+
+- 九章算术
+
+- 10000个科学难题 数学卷
 
 ## English
 
 - The Lord of the Rings
 - Complete Novels by Jane Austen
 - The Complete Works of William Shakespeare
+- The Norton Anthology of English Literature
 
 - Graduate Texts in Mathematics
+- The Princeton Companion to Mathematics and Applied Mathematics
 
 ## Indonesian
 
 ## Russian
+- Анна Каренина
 
 ## Korean
 
@@ -56,6 +67,7 @@
 ## Vietnese
 
 ## Arabian
+- اَلْقُرآن
 
 ## Latin
 
@@ -64,3 +76,4 @@
 ## Thai
 
 ## Music Score
+Music in theory and practice
