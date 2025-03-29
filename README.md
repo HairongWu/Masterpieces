@@ -38,6 +38,8 @@
 - 资治通鉴
 - 苏轼集
 
+- 甲骨文字诂
+
 - 九章算术
 
 - 10000个科学难题 数学卷
@@ -58,22 +60,30 @@
 - Анна Каренина
 
 ## Korean
+- 춘향전
 
 ## Portuguese
+- Meu Pé de Laranja Lima
 
 ## Indian
-
+- वेद
+- महाभारतम्
+- रामायण
 
 ## Vietnese
+- Việt Nam Sử Lược
 
 ## Arabian
 - اَلْقُرآن
 
 ## Latin
+- Aeneis
 
 ## Greek
+- Ἰλιάς
+- Ὀδύσσεια
 
 ## Thai
 
 ## Music Score
-Music in theory and practice
+- Music in theory and practice
