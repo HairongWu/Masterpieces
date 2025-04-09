@@ -2,7 +2,7 @@
 
 ## Japanese
 
-- 夏目漱石全集 (In progress)
+- 夏目漱石全集
 - 芥川龍之介全集
 - 太宰治全集
 - 樋口一葉全集
@@ -11,7 +11,7 @@
 
 ## French
 
-- Le comte de Monte-Cristo (In progress)
+- Le comte de Monte-Cristo
 - Les Misérables
 
 - The works of Cauchy
@@ -36,7 +36,6 @@
 
 - 清史稿
 - 资治通鉴
-- 苏轼集
 
 - 甲骨文字诂
 
@@ -47,12 +46,11 @@
 ## English
 
 - The Lord of the Rings
-- Complete Novels by Jane Austen
-- The Complete Works of William Shakespeare
+
 - The Norton Anthology of English Literature
 
-- Graduate Texts in Mathematics
-- The Princeton Companion to Mathematics and Applied Mathematics
+- Undergraduate Texts for Mathematics
+- Graduate Texts for Mathematics
 
 ## Indonesian
 
